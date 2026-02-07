@@ -2,6 +2,7 @@
 my laptop i working on it by rust & go
 # 🚀 Hi, I'm Yassin! 
 ### 🇲🇦 16yo Aspiring Software Engineer from Morocco
+![Uploading Screenshot from 2026-02-07 08-07-26.png…]()
 
 - 🦀 Currently focusing on **Rust** and **Go**.
 - 🐧 Linux Enthusiast (Using **Zorin OS**).
