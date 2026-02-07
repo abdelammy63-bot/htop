@@ -1,8 +1,10 @@
-# htop
-my laptop i working on it by rust & go
+# htop 🚀
+> my laptop i working on it by rust & go
+
 # 🚀 Hi, I'm Yassin! 
 ### 🇲🇦 16yo Aspiring Software Engineer from Morocco
-![Uploading Screenshot from 2026-02-07 08-07-26.png…]()
+
+![My Htop Performance](https://raw.githubusercontent.com/abdelammy63-bot/htop/main/htop.png)
 
 - 🦀 Currently focusing on **Rust** and **Go**.
 - 🐧 Linux Enthusiast (Using **Zorin OS**).
@@ -18,4 +20,4 @@ my laptop i working on it by rust & go
 ---
 
 ## 📊 My Learning Journey
-> "I am focusing on Rust now even if is soo hrad >_<"
+> "I am focusing on Rust now even if it is so hard >_<"
