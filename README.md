@@ -4,11 +4,9 @@
 # 🚀 Hi, I'm Yassin! 
 ### 🇲🇦 16yo Aspiring Software Engineer from Morocco
 
-![My Htop Performance](https://raw.githubusercontent.com/abdelammy63-bot/htop/main/htop.png)
-
 - 🦀 Currently focusing on **Rust** and **Go**.
 - 🐧 Linux Enthusiast (Using **Zorin OS**).
-- 💻 Moving soon from HP ProBook to **Acer Nitro 5**.
+- 💻 Moving soon from HP ProBook to **another pc**.
 
 ---
 
